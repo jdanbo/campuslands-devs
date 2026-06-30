@@ -43,8 +43,8 @@ git commit -m "feat(pingpong): agregar tabla de posiciones de la liga de pingpon
 Regresar a la rama dev principal local
 git checkout dev
 
-Fusionar los cambios de la rama feature hacia dev
-git merge feature/ranking-pingpong
+Fusionar los cambios de la rama alumno/daniel-borja/ejercicio-07 hacia dev
+git merge alumno/daniel-borja/ejercicio-07
 
 Verificación del historial
 git log --oneline
