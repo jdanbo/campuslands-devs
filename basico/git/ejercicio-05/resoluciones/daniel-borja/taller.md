@@ -37,6 +37,7 @@ Primer commit
 Subir rama al remoto
 
 git push -u origin alumno/daniel-borja/ejercicio-05
-Verificación del historial
 
+Verificación del historial
 git log --oneline
+9a62e23 (HEAD -> alumno/daniel-borja/ejercicio-05, origin/alumno/daniel-borja/ejercicio-05) feat(git): registrar solución inicial
