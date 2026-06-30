@@ -1,0 +1,5 @@
+- [ ] Ranura 1: Principal
+- [ ] Ranura 2: Secundaria
+- [ ] Ranura 3: Arma Corta
+- [ ] Ranura 4: Utilidad
+- [ ] Ranura 5: Curaciones
